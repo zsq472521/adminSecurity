@@ -1,0 +1,12 @@
+club\codehero\ssm\service\IUserService.class
+club\codehero\ssm\service\ISysLogService.class
+club\codehero\ssm\service\IProductService.class
+club\codehero\ssm\service\impl\OrderServiceImpl.class
+club\codehero\ssm\service\impl\UserServiceImpl.class
+club\codehero\ssm\service\impl\ProductServiceImpl.class
+club\codehero\ssm\service\IOrderService.class
+club\codehero\ssm\service\impl\RoleServiceImpl.class
+club\codehero\ssm\service\impl\SysLogServiceImpl.class
+club\codehero\ssm\service\IPermissionService.class
+club\codehero\ssm\service\IRoleService.class
+club\codehero\ssm\service\impl\PermissionServiceImpl.class

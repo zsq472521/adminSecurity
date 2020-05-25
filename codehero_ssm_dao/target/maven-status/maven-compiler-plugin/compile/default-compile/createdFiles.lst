@@ -1,0 +1,8 @@
+club\codehero\ssm\dao\IPermissionDao.class
+club\codehero\ssm\dao\SysLogDao.class
+club\codehero\ssm\dao\IUserDao.class
+club\codehero\ssm\dao\IRoleDao.class
+club\codehero\ssm\dao\IMemberDao.class
+club\codehero\ssm\dao\IOrderDao.class
+club\codehero\ssm\dao\IProductDao.class
+club\codehero\ssm\dao\ITravellerDao.class

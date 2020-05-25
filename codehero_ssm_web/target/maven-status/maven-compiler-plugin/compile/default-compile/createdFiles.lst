@@ -1,0 +1,7 @@
+club\codehero\ssm\controller\OrdersController.class
+club\codehero\ssm\controller\UserController.class
+club\codehero\ssm\controller\ProductController.class
+club\codehero\ssm\controller\RoleController.class
+club\codehero\ssm\controller\PermissionController.class
+club\codehero\ssm\controller\LogAop.class
+club\codehero\ssm\controller\SysLogController.class

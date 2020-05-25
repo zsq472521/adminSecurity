@@ -1,0 +1,8 @@
+club\codehero\ssm\domain\Product.class
+club\codehero\ssm\domain\Role.class
+club\codehero\ssm\domain\Traveller.class
+club\codehero\ssm\domain\Permission.class
+club\codehero\ssm\domain\Orders.class
+club\codehero\ssm\domain\UserInfo.class
+club\codehero\ssm\domain\SysLog.class
+club\codehero\ssm\domain\Member.class
